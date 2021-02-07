@@ -15,7 +15,7 @@ const App = () => {
       </ApprovalCard>
 
       <ApprovalCard>
-        <CommentDetail
+        <CommentDetailo
           author="Sam"
           timeAgo="Today at 4:45PM"
           content="Nice blog post"
